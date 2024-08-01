@@ -4,6 +4,7 @@ This project uses computer vision to control the mouse cursor with eye movements
 
 ## Requirements
 
+
 - Python 3.x
 - OpenCV
 - Mediapipe
